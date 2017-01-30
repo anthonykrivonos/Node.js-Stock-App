@@ -4,15 +4,20 @@ Instructions:
 0. Install Node.js
 
 1. Clone repository.
-```git clone https://github.com/USERNAME/REPOSITORY.git```
+```
+git clone https://github.com/USERNAME/REPOSITORY.git
+```
 
 2. Initialize Node Package Manager. Press Enter through the options.
-```npm init```
+```
+npm init
+```
 
 3. Import needed Node modules and save.
 ```
 npm install request --save
-npm install yargs --save```
+npm install yargs --save
+```
 
 4. Run app.js using Node.
 ```
