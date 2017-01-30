@@ -2,7 +2,7 @@
 ##Simple app to get stock price based on inputted symbol coded in Node.js.
 Instructions:
 
-Install Node.js
+- Install Node.js
 
 - Clone repository.
 ```
